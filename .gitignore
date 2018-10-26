@@ -1,0 +1,13 @@
+edges.bin
+new_nodes_to_old_nodes.bin
+nodes.bin
+old_nodes_to_new_nodes.bin
+valhalla_tiles.tar
+valhalla_tiles
+washington.pbf
+way_nodes.bin
+ways.bin
+
+data/tiles.tar
+data/road_network.txt
+data/tiles
